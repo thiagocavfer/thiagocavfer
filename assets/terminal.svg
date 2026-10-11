@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="565" viewBox="0 0 1100 565" role="img" aria-label="Terminal de apresentação de Thiago Cavalcanti Ferreira">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101a2c"/><stop offset="1" stop-color="#080f1c"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#f59e0b"/><stop offset="1" stop-color="#fb923c"/></linearGradient></defs>
+<rect width="1100" height="565" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="1098" height="563" rx="19" fill="none" stroke="#334155" stroke-width="2"/>
+<path d="M0 56H1100" stroke="#334155"/><circle cx="30" cy="28" r="7" fill="#fb7185"/><circle cx="53" cy="28" r="7" fill="#fbbf24"/><circle cx="76" cy="28" r="7" fill="#34d399"/>
+<g font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" fill="#a9bbd1"><text x="105" y="33">thiago@github: ~/profile</text><text x="1010" y="33" fill="#f59e0b">● online</text></g>
+<path d="M530 78V535" stroke="#27354a"/>
+<g font-family="DejaVu Sans Mono, Consolas, monospace" xml:space="preserve" font-size="17" fill="#f59e0b">
+<text x="43" y="104">$ neofetch --user thiagocavfer</text>
+<text x="67" y="150">          .--.</text>
+<text x="67" y="176">         |o_o |</text>
+<text x="67" y="202">         |:_/ |</text>
+<text x="67" y="228">        //   \ \</text>
+<text x="67" y="254">       (|     | )</text>
+<text x="67" y="280">      /'\_   _/`\</text>
+<text x="67" y="306">      \___)=(___/</text>
+<text x="67" y="348" fill="#e2e8f0">  BUILDING SOFTWARE</text>
+<text x="67" y="376" fill="#e2e8f0">  WITH PURPOSE.</text>
+<text x="67" y="433" fill="#94a3b8">  arquitetura • liderança</text>
+<text x="67" y="459" fill="#94a3b8">  engenharia • inovação</text>
+<text x="67" y="509" fill="#fb923c">  [█████████████████░░░]</text>
+</g>
+<g font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16">
+<text x="560" y="105" fill="#f8fafc" font-weight="bold" font-size="20">THIAGO CAVALCANTI FERREIRA</text>
+<path d="M560 118H1052" stroke="url(#line)" stroke-width="2"/>
+<text x="560" y="153" fill="#f59e0b">Cargo</text><text x="708" y="153" fill="#e2e8f0">Líder Técnico / Arquiteto</text>
+<text x="560" y="182" fill="#f59e0b">Experiência</text><text x="708" y="182" fill="#e2e8f0">17+ anos</text>
+<text x="560" y="211" fill="#f59e0b">Local</text><text x="708" y="211" fill="#e2e8f0">Rio de Janeiro, Brasil</text>
+<text x="560" y="240" fill="#f59e0b">Instituição</text><text x="708" y="240" fill="#e2e8f0">CDTS / Fiocruz</text>
+<path d="M560 262H1052" stroke="#334155"/>
+<text x="560" y="290" fill="#fb923c" font-weight="bold">STACK PRINCIPAL</text>
+<text x="560" y="323" fill="#f59e0b">Backend</text><text x="708" y="323" fill="#e2e8f0">PHP · Laravel · APIs</text>
+<text x="560" y="352" fill="#f59e0b">Frontend</text><text x="708" y="352" fill="#e2e8f0">Vue 3 · Inertia · JS</text>
+<text x="560" y="381" fill="#f59e0b">Dados</text><text x="708" y="381" fill="#e2e8f0">MySQL · MariaDB</text>
+<text x="560" y="410" fill="#f59e0b">DevOps</text><text x="708" y="410" fill="#e2e8f0">Linux · Git · CI/CD</text>
+<path d="M560 433H1052" stroke="#334155"/>
+<text x="560" y="463" fill="#fb923c" font-weight="bold">CONTATO</text>
+<text x="560" y="492" fill="#e2e8f0" font-size="15">work.thiagocf.com</text>
+<text x="560" y="521" fill="#94a3b8" font-size="15">github.com/thiagocavfer</text>
+</g>
+</svg>
