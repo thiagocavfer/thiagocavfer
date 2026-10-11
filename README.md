@@ -1,111 +1,85 @@
-<div align="center">
-
-# Olá, eu sou o Thiago! 👋
-
-**Líder Técnico de Desenvolvimento · Arquiteto de Software · Full Stack Developer**
-
-*Building software with purpose.*
-
-[Portfólio](https://work.thiagocf.com/) · [LinkedIn](https://www.linkedin.com/in/thiago-cavalcanti-ferreira-a567b543) · [GitHub](https://github.com/thiagocavfer) · [E-mail](mailto:thiagocavfer@gmail.com)
-
-</div>
-
----
-
-<!-- Os dois painéis abaixo contêm texto real: selecionável e copiável. -->
-<table>
+<!-- Perfil GitHub: todo o conteúdo importante abaixo é texto selecionável e copiável. -->
+<table width="100%">
 <tr>
-<td valign="top" width="42%">
+<td valign="top" width="39%">
 
 <pre>
-thiago@github:~$ ./mission
+thiago@github:~$ whoami
+
+       .-========-.
+     .'  .------.  '.
+    /   /  ____  \   \
+   |   |  /    \  |   |
+   |   | ( o  o ) |   |
+   |   |    __    |   |
+   |    \  \__/  /    |
+    \    '.___.'     /
+     '.   /###\   .'
+       '-/#####\-'
+        |#######|
+        |#######|
+       /|#######|\
+      /_|_______|_\
 
 BUILDING SOFTWARE
 WITH PURPOSE.
 
-Arquitetura, liderança e
-engenharia de software.
-
-Tecnologia que conecta
-pessoas, dados e processos.
-
-thiago@github:~$ ls expertise/
-
-01  Arquitetura de Software
-02  Liderança Técnica
-03  Engenharia Full Stack
+Arquitetura • Liderança
+Engenharia Full Stack
 </pre>
 
 </td>
-<td valign="top" width="58%">
+<td valign="top" width="61%">
 
-<pre>
-THIAGO CAVALCANTI FERREIRA
-------------------------------
-Cargo       Líder Técnico /
-            Arquiteto de Software
-Experiência 17+ anos
-Local       Rio de Janeiro, Brasil
-Instituição CDTS / Fiocruz
+<h3><code>thiagocavfer</code> ───────────────</h3>
+<table>
+<tr><td><strong>Cargo</strong></td><td>Líder Técnico / Arquiteto de Software</td></tr>
+<tr><td><strong>Experiência</strong></td><td>17+ anos</td></tr>
+<tr><td><strong>Local</strong></td><td>Rio de Janeiro, Brasil</td></tr>
+<tr><td><strong>Instituição</strong></td><td>CDTS / Fiocruz</td></tr>
+</table>
 
-STACK PRINCIPAL
-------------------------------
-Backend     PHP · Laravel
-            CodeIgniter · APIs REST
-Frontend    Vue 3 · Inertia.js
-            JavaScript · React
-            jQuery · Tailwind CSS
-Dados       MySQL · PostgreSQL
-            MariaDB
-DevOps      Linux · Git · GitLab
-            CI/CD · Docker
+<h4>Stack principal ─────────────</h4>
+<table>
+<tr><td><strong>Backend</strong></td><td>PHP, Laravel, CodeIgniter, APIs REST</td></tr>
+<tr><td><strong>Frontend</strong></td><td>Vue 3, Inertia.js, JavaScript, React, jQuery, Tailwind CSS</td></tr>
+<tr><td><strong>Dados</strong></td><td>MySQL, PostgreSQL, MariaDB</td></tr>
+<tr><td><strong>DevOps</strong></td><td>Linux, Git, GitLab CI/CD, Docker</td></tr>
+</table>
 
-CONTATO
-------------------------------
-Portfólio   work.thiagocf.com
-GitHub      github.com/thiagocavfer
-LinkedIn   Thiago Cavalcanti
-E-mail      thiagocavfer@gmail.com
-</pre>
+<h4>Contato ────────────────────</h4>
+<table>
+<tr><td><strong>Portfólio</strong></td><td><a href="https://work.thiagocf.com/">work.thiagocf.com</a></td></tr>
+<tr><td><strong>GitHub</strong></td><td><a href="https://github.com/thiagocavfer">thiagocavfer</a></td></tr>
+<tr><td><strong>LinkedIn</strong></td><td><a href="https://www.linkedin.com/in/thiago-cavalcanti-ferreira-a567b543">Thiago Cavalcanti Ferreira</a></td></tr>
+<tr><td><strong>E-mail</strong></td><td><a href="mailto:thiagocavfer@gmail.com">thiagocavfer@gmail.com</a></td></tr>
+</table>
 
 </td>
 </tr>
 </table>
 
-> **Arquitetura · Liderança técnica · Engenharia full stack**  
-> Transformando desafios complexos em soluções digitais robustas, escaláveis e centradas nas pessoas.
+<blockquote>
+<strong>Arquitetura, liderança e engenharia de software.</strong><br>
+Transformando desafios complexos em soluções digitais robustas, escaláveis e centradas nas pessoas.
+</blockquote>
 
-## Sobre mim
+### Sobre mim
 
-Sou **Thiago Cavalcanti Ferreira**, desenvolvedor web com **mais de 17 anos de experiência** em arquitetura de software, liderança técnica, desenvolvimento full stack e integração de sistemas.
+Sou **Thiago Cavalcanti Ferreira**, desenvolvedor e líder técnico com mais de **17 anos de experiência** em sistemas web, arquitetura de software, integrações e desenvolvimento full stack. Atuo no **CDTS / Fiocruz**, contribuindo com soluções digitais para gestão, pesquisa e inovação em saúde pública.
 
-Atuo no **CDTS / Fiocruz**, contribuindo para soluções digitais de gestão, pesquisa e inovação em saúde pública. Trabalho desde a concepção da arquitetura e definição de padrões até a orientação técnica de equipes e entrega de sistemas e portais web.
+### Áreas de atuação
 
-## Áreas de atuação
+- **Arquitetura de Software:** soluções escaláveis, APIs e integrações sustentáveis.
+- **Liderança Técnica:** orientação de equipes, qualidade técnica e evolução das entregas.
+- **Engenharia Full Stack:** aplicações web, portais e sistemas de gestão de ponta a ponta.
 
-| Especialidade | Atuação |
-| :--- | :--- |
-| **Arquitetura de software** | Soluções escaláveis e sustentáveis, APIs REST, integração entre sistemas e evolução arquitetural. |
-| **Liderança técnica** | Orientação de equipes, decisões técnicas, qualidade, revisão de código e melhoria contínua. |
-| **Engenharia full stack** | Aplicações de ponta a ponta, da modelagem de dados à experiência do usuário. |
-| **Sistemas e portais** | Gestão corporativa, automação de processos e portais institucionais. |
+### Projetos em destaque
 
-## Tecnologias e ferramentas
+| Repositório | Descrição |
+|:--|:--|
+| [challenger-set2019](https://github.com/thiagocavfer/challenger-set2019) | Desafio técnico de desenvolvimento Full Stack. |
+| [laravel-homestead-box-0.5.0](https://github.com/thiagocavfer/laravel-homestead-box-0.5.0) | Configuração de ambiente Laravel Homestead. |
+| [curso-react-redux](https://github.com/thiagocavfer/curso-react-redux) | Exercícios e estudos com React e Redux. |
 
-| Área | Tecnologias |
-| :--- | :--- |
-| **Backend** | PHP, Laravel, CodeIgniter, APIs REST |
-| **Frontend** | JavaScript, Vue 3, Inertia.js, React, jQuery, Tailwind CSS |
-| **Bancos de dados** | MySQL, PostgreSQL, MariaDB |
-| **Engenharia e DevOps** | Linux, Git, GitLab, CI/CD, Docker |
-
-## Contato
-
-- **Portfólio:** [work.thiagocf.com](https://work.thiagocf.com/)
-- **LinkedIn:** [Thiago Cavalcanti Ferreira](https://www.linkedin.com/in/thiago-cavalcanti-ferreira-a567b543)
-- **GitHub:** [thiagocavfer](https://github.com/thiagocavfer)
-- **E-mail:** [thiagocavfer@gmail.com](mailto:thiagocavfer@gmail.com)
-
----
-
-<div align="center"><sub>Construindo software com propósito.</sub></div>
+<!-- Para reproduzir a seção Pinned do exemplo, fixe até 6 repositórios nas configurações do perfil GitHub. -->
