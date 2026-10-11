@@ -18,17 +18,24 @@
 <text x="106" y="375" font-family="DejaVu Sans Mono,monospace" font-size="17" font-weight="normal" fill="#cbd5e1" opacity="1">Arquitetura, liderança e engenharia de software.</text>
 <text x="106" y="405" font-family="DejaVu Sans Mono,monospace" font-size="17" font-weight="normal" fill="#cbd5e1" opacity="1">Tecnologia que conecta pessoas, dados e processos.</text>
 <path d="M106 434H598" stroke="#334155"/>
-<text x="106" y="469" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="normal" fill="#f59e0b" opacity="1">$ ls ./expertise/</text>
-<text x="106" y="508" font-family="DejaVu Sans Mono,monospace" font-size="24" font-weight="bold" fill="#f59e0b" opacity="1">01</text>
-<text x="160" y="508" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f8fafc" opacity="1">ARQUITETURA DE SOFTWARE</text>
-<text x="160" y="530" font-family="DejaVu Sans Mono,monospace" font-size="15" font-weight="normal" fill="#94a3b8" opacity="1">Soluções escaláveis e integrações confiáveis.</text>
-<path d="M160 539H598" stroke="#243246"/>
-<text x="106" y="559" font-family="DejaVu Sans Mono,monospace" font-size="24" font-weight="bold" fill="#f59e0b" opacity="1">02</text>
-<text x="160" y="559" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f8fafc" opacity="1">LIDERANÇA TÉCNICA</text>
-<text x="160" y="581" font-family="DejaVu Sans Mono,monospace" font-size="15" font-weight="normal" fill="#94a3b8" opacity="1">Estratégia, qualidade e evolução das equipes.</text>
-<path d="M160 590H598" stroke="#243246"/>
-<text x="106" y="610" font-family="DejaVu Sans Mono,monospace" font-size="24" font-weight="bold" fill="#f59e0b" opacity="1">03</text>
-<text x="160" y="610" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f8fafc" opacity="1">ENGENHARIA FULL STACK</text>
-<text x="160" y="632" font-family="DejaVu Sans Mono,monospace" font-size="15" font-weight="normal" fill="#94a3b8" opacity="1">Da modelagem de dados à experiência web.</text>
+<text x="106" y="469" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="normal" fill="#f59e0b" opacity="1">$ focus --expertise</text>
+
+<rect x="106" y="488" width="492" height="42" rx="12" fill="#0b1626" stroke="#22344a"/>
+<rect x="124" y="498" width="42" height="22" rx="11" fill="#17283b" stroke="#2f4560"/>
+<text x="135" y="514" font-family="DejaVu Sans Mono,monospace" font-size="15" font-weight="bold" fill="#f59e0b" opacity="1">01</text>
+<text x="184" y="509" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f8fafc" opacity="1">ARQUITETURA DE SOFTWARE</text>
+<text x="184" y="525" font-family="DejaVu Sans Mono,monospace" font-size="13" font-weight="normal" fill="#94a3b8" opacity="1">Escalabilidade, integrações e desenho sustentável.</text>
+
+<rect x="106" y="544" width="492" height="42" rx="12" fill="#0b1626" stroke="#22344a"/>
+<rect x="124" y="554" width="42" height="22" rx="11" fill="#17283b" stroke="#2f4560"/>
+<text x="135" y="570" font-family="DejaVu Sans Mono,monospace" font-size="15" font-weight="bold" fill="#f59e0b" opacity="1">02</text>
+<text x="184" y="565" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f8fafc" opacity="1">LIDERANÇA TÉCNICA</text>
+<text x="184" y="581" font-family="DejaVu Sans Mono,monospace" font-size="13" font-weight="normal" fill="#94a3b8" opacity="1">Estratégia, qualidade e evolução das equipes.</text>
+
+<rect x="106" y="600" width="492" height="42" rx="12" fill="#0b1626" stroke="#22344a"/>
+<rect x="124" y="610" width="42" height="22" rx="11" fill="#17283b" stroke="#2f4560"/>
+<text x="135" y="626" font-family="DejaVu Sans Mono,monospace" font-size="15" font-weight="bold" fill="#f59e0b" opacity="1">03</text>
+<text x="184" y="621" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f8fafc" opacity="1">ENGENHARIA FULL STACK</text>
+<text x="184" y="637" font-family="DejaVu Sans Mono,monospace" font-size="13" font-weight="normal" fill="#94a3b8" opacity="1">Da base de dados à experiência web.</text>
 <text x="705" y="135" font-family="DejaVu Sans Mono,monospace" font-size="29" font-weight="bold" fill="#f8fafc">THIAGO CAVALCANTI FERREIRA</text><path d="M704 155H1335" stroke="#34445a"/><text x="705" y="194" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f59e0b">Cargo</text><text x="875" y="194" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="normal" fill="#e2e8f0">Líder Técnico / Arquiteto</text><text x="705" y="225" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f59e0b">Experiência</text><text x="875" y="225" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="normal" fill="#e2e8f0">17+ anos</text><text x="705" y="256" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f59e0b">Local</text><text x="875" y="256" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="normal" fill="#e2e8f0">Rio de Janeiro, Brasil</text><text x="705" y="287" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f59e0b">Instituição</text><text x="875" y="287" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="normal" fill="#e2e8f0">CDTS / Fiocruz</text><path d="M704 322H1335" stroke="#34445a"/><text x="705" y="355" font-family="DejaVu Sans Mono,monospace" font-size="22" font-weight="bold" fill="#f59e0b">STACK PRINCIPAL</text><text x="705" y="388" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f59e0b">Backend</text><text x="875" y="388" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="normal" fill="#e2e8f0">PHP · Laravel · CodeIgniter</text><text x="705" y="417" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f59e0b">Frontend</text><text x="875" y="417" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="normal" fill="#e2e8f0">Vue 3 · Inertia · jQuery</text><text x="705" y="446" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f59e0b">Dados</text><text x="875" y="446" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="normal" fill="#e2e8f0">MySQL · PostgreSQL · MariaDB</text><text x="705" y="475" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="bold" fill="#f59e0b">DevOps</text><text x="875" y="475" font-family="DejaVu Sans Mono,monospace" font-size="18" font-weight="normal" fill="#e2e8f0">Linux · Git · CI/CD</text><path d="M704 493H1335" stroke="#34445a"/><text x="705" y="527" font-family="DejaVu Sans Mono,monospace" font-size="22" font-weight="bold" fill="#f59e0b">CONTATO</text><text x="705" y="558" font-family="DejaVu Sans Mono,monospace" font-size="16" font-weight="normal" fill="#e2e8f0">work.thiagocf.com</text><text x="705" y="586" font-family="DejaVu Sans Mono,monospace" font-size="16" font-weight="normal" fill="#e2e8f0">github.com/thiagocavfer</text><text x="705" y="614" font-family="DejaVu Sans Mono,monospace" font-size="13" font-weight="normal" fill="#e2e8f0">linkedin.com/in/thiago-cavalcanti-ferreira-a567b543</text>
 </svg>
