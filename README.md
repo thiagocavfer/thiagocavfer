@@ -1,69 +1,111 @@
+<div align="center">
+
 # Olá, eu sou o Thiago! 👋
 
-**Thiago Cavalcanti Ferreira**  
-**Líder Técnico de Desenvolvimento · Arquiteto de Software · Desenvolvedor Full Stack**
+**Líder Técnico de Desenvolvimento · Arquiteto de Software · Full Stack Developer**
 
-> **Building software with purpose.**  
-> Arquitetura, liderança e engenharia de software para conectar pessoas, dados e processos.
+*Building software with purpose.*
 
-[**Portfólio**](https://work.thiagocf.com/) · [**LinkedIn**](https://www.linkedin.com/in/thiago-cavalcanti-ferreira-a567b543) · [**GitHub**](https://github.com/thiagocavfer) · [**E-mail**](mailto:thiagocavfer@gmail.com)
+[Portfólio](https://work.thiagocf.com/) · [LinkedIn](https://www.linkedin.com/in/thiago-cavalcanti-ferreira-a567b543) · [GitHub](https://github.com/thiagocavfer) · [E-mail](mailto:thiagocavfer@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 Perfil profissional
+<!-- Os dois painéis abaixo contêm texto real: selecionável e copiável. -->
+<table>
+<tr>
+<td valign="top" width="42%">
 
-Sou desenvolvedor web com **mais de 17 anos de experiência**, atuando com **arquitetura de software, liderança técnica, desenvolvimento full stack e integração de sistemas**.
+<pre>
+thiago@github:~$ ./mission
 
-Atuo no **CDTS / Fiocruz**, contribuindo para a construção e evolução de soluções digitais voltadas à gestão, à pesquisa e à inovação em saúde pública. Meu trabalho vai da definição de arquiteturas à orientação técnica de equipes e à entrega de aplicações web de ponta a ponta.
+BUILDING SOFTWARE
+WITH PURPOSE.
 
-| Informação | Detalhes |
+Arquitetura, liderança e
+engenharia de software.
+
+Tecnologia que conecta
+pessoas, dados e processos.
+
+thiago@github:~$ ls expertise/
+
+01  Arquitetura de Software
+02  Liderança Técnica
+03  Engenharia Full Stack
+</pre>
+
+</td>
+<td valign="top" width="58%">
+
+<pre>
+THIAGO CAVALCANTI FERREIRA
+------------------------------
+Cargo       Líder Técnico /
+            Arquiteto de Software
+Experiência 17+ anos
+Local       Rio de Janeiro, Brasil
+Instituição CDTS / Fiocruz
+
+STACK PRINCIPAL
+------------------------------
+Backend     PHP · Laravel
+            CodeIgniter · APIs REST
+Frontend    Vue 3 · Inertia.js
+            JavaScript · React
+            jQuery · Tailwind CSS
+Dados       MySQL · PostgreSQL
+            MariaDB
+DevOps      Linux · Git · GitLab
+            CI/CD · Docker
+
+CONTATO
+------------------------------
+Portfólio   work.thiagocf.com
+GitHub      github.com/thiagocavfer
+LinkedIn   Thiago Cavalcanti
+E-mail      thiagocavfer@gmail.com
+</pre>
+
+</td>
+</tr>
+</table>
+
+> **Arquitetura · Liderança técnica · Engenharia full stack**  
+> Transformando desafios complexos em soluções digitais robustas, escaláveis e centradas nas pessoas.
+
+## Sobre mim
+
+Sou **Thiago Cavalcanti Ferreira**, desenvolvedor web com **mais de 17 anos de experiência** em arquitetura de software, liderança técnica, desenvolvimento full stack e integração de sistemas.
+
+Atuo no **CDTS / Fiocruz**, contribuindo para soluções digitais de gestão, pesquisa e inovação em saúde pública. Trabalho desde a concepção da arquitetura e definição de padrões até a orientação técnica de equipes e entrega de sistemas e portais web.
+
+## Áreas de atuação
+
+| Especialidade | Atuação |
 | :--- | :--- |
-| **Atuação** | Líder Técnico / Arquiteto de Software |
-| **Experiência** | 17+ anos |
-| **Instituição** | CDTS / Fiocruz |
-| **Localização** | Rio de Janeiro, Brasil |
-| **Foco** | Arquitetura, liderança técnica, sistemas web e integrações |
+| **Arquitetura de software** | Soluções escaláveis e sustentáveis, APIs REST, integração entre sistemas e evolução arquitetural. |
+| **Liderança técnica** | Orientação de equipes, decisões técnicas, qualidade, revisão de código e melhoria contínua. |
+| **Engenharia full stack** | Aplicações de ponta a ponta, da modelagem de dados à experiência do usuário. |
+| **Sistemas e portais** | Gestão corporativa, automação de processos e portais institucionais. |
 
-## 🎯 Áreas de especialidade
-
-### 01 · Arquitetura de software
-
-Desenho de soluções **escaláveis, seguras e sustentáveis**, incluindo sistemas corporativos, APIs REST e integrações entre plataformas.
-
-### 02 · Liderança técnica
-
-Orientação de equipes de desenvolvimento, definição de padrões, revisão de soluções e evolução contínua da qualidade das entregas.
-
-### 03 · Engenharia full stack
-
-Desenvolvimento de aplicações web de ponta a ponta, **da modelagem de dados à experiência do usuário**, com foco em manutenção, desempenho e usabilidade.
-
-## 🧰 Stack e ferramentas
+## Tecnologias e ferramentas
 
 | Área | Tecnologias |
 | :--- | :--- |
 | **Backend** | PHP, Laravel, CodeIgniter, APIs REST |
 | **Frontend** | JavaScript, Vue 3, Inertia.js, React, jQuery, Tailwind CSS |
-| **Banco de dados** | MySQL, PostgreSQL, MariaDB |
+| **Bancos de dados** | MySQL, PostgreSQL, MariaDB |
 | **Engenharia e DevOps** | Linux, Git, GitLab, CI/CD, Docker |
 
-## 🚀 Soluções em que atuo
-
-- **Sistemas de gestão:** aplicações corporativas, fluxos de trabalho e automação de processos.
-- **Web e portais:** sites e portais institucionais, aplicações web e experiências digitais.
-- **APIs e integrações:** comunicação entre sistemas, organização de serviços e evolução arquitetural.
-
-## 💡 Princípios de trabalho
-
-**Código limpo · Simplicidade · Colaboração · Segurança · Performance · Escalabilidade · Entrega com propósito**
-
-## 📫 Contato
+## Contato
 
 - **Portfólio:** [work.thiagocf.com](https://work.thiagocf.com/)
 - **LinkedIn:** [Thiago Cavalcanti Ferreira](https://www.linkedin.com/in/thiago-cavalcanti-ferreira-a567b543)
-- **GitHub:** [github.com/thiagocavfer](https://github.com/thiagocavfer)
+- **GitHub:** [thiagocavfer](https://github.com/thiagocavfer)
 - **E-mail:** [thiagocavfer@gmail.com](mailto:thiagocavfer@gmail.com)
 
 ---
 
-*Transformando desafios complexos em soluções digitais robustas, escaláveis e centradas nas pessoas.*
+<div align="center"><sub>Construindo software com propósito.</sub></div>
