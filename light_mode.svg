@@ -1,7 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530" role="img" aria-label="Thiago Cavalcanti Ferreira, líder técnico e arquiteto de software. Dados completos no README.">
-<rect width="985" height="530" fill="#ffffff" rx="15"/>
-<rect x="0.8" y="0.8" width="983.4" height="528.4" rx="14.2" fill="none" stroke="#d0d7de"/>
-<path d="M367 20V508" stroke="#d0d7de"/>
+<rect width="985" height="530" fill="#ffffff" rx="15" />
+<rect x="0.8" y="0.8" width="983.4" height="528.4" rx="14.2" fill="none" stroke="#d0d7de" />
+<path d="M367 20V508" stroke="#d0d7de" />
 <text xml:space="preserve" x="38" y="31.0" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="12" fill="#24292f">              .-==========-.</text>
 <text xml:space="preserve" x="38" y="51.7" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="12" fill="#24292f">          .-==##############==-.</text>
 <text xml:space="preserve" x="38" y="72.4" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="12" fill="#24292f">        .=####%%%%%%%###########=.</text>
@@ -25,41 +26,41 @@
 <text xml:space="preserve" x="38" y="445.0" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="12" fill="#24292f">      /#####/            \#####\</text>
 <text xml:space="preserve" x="38" y="465.7" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="12" fill="#24292f">     /#####/              \#####\</text>
 <text xml:space="preserve" x="38" y="486.4" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="12" fill="#24292f">    /#####/                \#####\</text>
-<text x="392" y="29" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="16" font-weight="bold" fill="#24292f" >thiagocavfer</text>
-<path d="M392 41H957" stroke="#d0d7de"/>
-<text x="392" y="67" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >Cargo</text>
-<text x="559" y="67" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >Líder Técnico / Arquiteto</text>
-<text x="392" y="90" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >Experiência</text>
-<text x="559" y="90" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >17+ anos</text>
-<text x="392" y="113" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >Local</text>
-<text x="559" y="113" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >Rio de Janeiro, Brasil</text>
-<text x="392" y="136" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >Instituição</text>
-<text x="559" y="136" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >CDTS / Fiocruz</text>
-<path d="M392 156H957" stroke="#d0d7de"/>
-<text x="392" y="178" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="14" font-weight="bold" fill="#a15c00" >STACK PRINCIPAL</text>
-<text x="392" y="207" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >Backend</text>
-<text x="559" y="207" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >PHP · Laravel · CodeIgniter</text>
-<text x="392" y="230" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >Frontend</text>
-<text x="559" y="230" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >Vue 3 · Inertia · React</text>
-<text x="392" y="253" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >Web</text>
-<text x="559" y="253" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >JavaScript · jQuery · CSS</text>
-<text x="392" y="276" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >Dados</text>
-<text x="559" y="276" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >MySQL · PostgreSQL · MariaDB</text>
-<text x="392" y="299" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >DevOps</text>
-<text x="559" y="299" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >Linux · Git · CI/CD</text>
-<path d="M392 319H957" stroke="#d0d7de"/>
-<text x="392" y="343" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="14" font-weight="bold" fill="#a15c00" >CONTATO</text>
-<text x="392" y="370" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >Portfólio</text>
-<text x="559" y="370" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >work.thiagocf.com</text>
-<text x="392" y="393" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >GitHub</text>
-<text x="559" y="393" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >github.com/thiagocavfer</text>
-<text x="392" y="416" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >LinkedIn</text>
-<text x="559" y="416" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >thiago-cavalcanti-ferreira-a567b543</text>
-<text x="392" y="439" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00" >E-mail</text>
-<text x="559" y="439" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" >thiagocavfer@gmail.com</text>
-<path d="M392 455H957" stroke="#d0d7de"/>
-<text x="392" y="479" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="14" font-weight="bold" fill="#a15c00" >GITHUB STATS</text>
-<text x="392" y="503" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" id="repos">Repos: --</text>
-<text x="568" y="503" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" id="followers">Followers: --</text>
-<text x="795" y="503" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" id="stars">Stars: --</text>
+<text x="392" y="29" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="16" font-weight="bold" fill="#24292f">thiagocavfer</text>
+<path d="M392 41H957" stroke="#d0d7de" />
+<text x="392" y="67" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">Cargo</text>
+<text x="559" y="67" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">Líder Técnico / Arquiteto</text>
+<text x="392" y="90" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">Experiência</text>
+<text x="559" y="90" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">17+ anos</text>
+<text x="392" y="113" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">Local</text>
+<text x="559" y="113" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">Rio de Janeiro, Brasil</text>
+<text x="392" y="136" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">Instituição</text>
+<text x="559" y="136" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">CDTS / Fiocruz</text>
+<path d="M392 156H957" stroke="#d0d7de" />
+<text x="392" y="178" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="14" font-weight="bold" fill="#a15c00">STACK PRINCIPAL</text>
+<text x="392" y="207" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">Backend</text>
+<text x="559" y="207" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">PHP · Laravel · CodeIgniter</text>
+<text x="392" y="230" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">Frontend</text>
+<text x="559" y="230" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">Vue 3 · Inertia · React</text>
+<text x="392" y="253" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">Web</text>
+<text x="559" y="253" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">JavaScript · jQuery · CSS</text>
+<text x="392" y="276" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">Dados</text>
+<text x="559" y="276" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">MySQL · PostgreSQL · MariaDB</text>
+<text x="392" y="299" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">DevOps</text>
+<text x="559" y="299" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">Linux · Git · CI/CD</text>
+<path d="M392 319H957" stroke="#d0d7de" />
+<text x="392" y="343" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="14" font-weight="bold" fill="#a15c00">CONTATO</text>
+<text x="392" y="370" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">Portfólio</text>
+<text x="559" y="370" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">work.thiagocf.com</text>
+<text x="392" y="393" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">GitHub</text>
+<text x="559" y="393" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">github.com/thiagocavfer</text>
+<text x="392" y="416" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">LinkedIn</text>
+<text x="559" y="416" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">thiago-cavalcanti-ferreira-a567b543</text>
+<text x="392" y="439" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="bold" fill="#a15c00">E-mail</text>
+<text x="559" y="439" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da">thiagocavfer@gmail.com</text>
+<path d="M392 455H957" stroke="#d0d7de" />
+<text x="392" y="479" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="14" font-weight="bold" fill="#a15c00">GITHUB STATS</text>
+<text x="392" y="503" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" id="repos">Repos: 16</text>
+<text x="568" y="503" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" id="followers">Followers: 1</text>
+<text x="795" y="503" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" font-weight="normal" fill="#0969da" id="stars">Stars: 1</text>
 </svg>
